@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./images/logo.png"></p>
+<img src="./images/logo.png"/></p>
 
 # Hi there! 👋
 
