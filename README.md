@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+<img src="./images/logo.png"></p>
 
-<!--
-**pedroagcf/pedroagcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+## Let me introduce myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm from Brazil (BR), passionate for techonology and curious by nature.
+
+## Jobs
+
+I started a Software Engineering graduation since 2017 and I have been working as Front-End Developer since january of 2019.
+
+## Researches
+
+Focused in deep learning using python in order to classify and detect objects in images and videos
+
+## Hobbies
+
+In my free time I like to play (and watch) soccer (⚽️), to play chess ♟️ and eventually I like to philosophize about life with a beer (🍺).
+
+## Contact me
+
+<!-- missing -->
