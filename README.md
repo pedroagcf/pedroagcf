@@ -9,7 +9,7 @@ I'm from Brazil (BR), passionate for techonology and curious by nature.
 
 ## Jobs
 
-I started a Software Engineering graduation since 2017 and I have been working as developer since january of 2019 and currently I'm occupying the Full Stack position at Unyleya.
+I started a Software Engineering graduation in 2017 and, I have been working as a developer since January of 2019. Currently, I'm occupying the Full Stack position at Unyleya.
 
 ## Researches
 
