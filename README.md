@@ -13,7 +13,8 @@ I started a Software Engineering graduation in 2017 and, I have been working as 
 
 ## Researches
 
-Focused in deep learning using python in order to classify and detect objects in images and videos
+- Deep learning using python in order to classify and detect objects in images and videos
+- Recommender Systems 
 
 ## Hobbies
 
