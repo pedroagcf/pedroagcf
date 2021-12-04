@@ -9,10 +9,14 @@ I'm from Brazil (BR), passionate for techonology and curious by nature.
 
 ## Jobs
 
-I started a Software Engineering graduation in 2017 and, I have been working as a developer since January of 2019. Currently, I'm occupying the Full Stack position at Unyleya.
+- Freelancer Programer 
+- Front-End Developer
+- Full-Stack Developer
+- Currently I'm occupying Anls Sr position at Avanade performing FE development focused on ecommerce platforms 
 
 ## Researches
 
+- Software Engineering graduation (2017 - 2022)
 - Deep learning using python in order to classify and detect objects in images and videos
 - Recommender Systems 
 
