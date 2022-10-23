@@ -25,6 +25,8 @@ I'm from Brazil (BR), passionate for techonology and curious by nature.
 
 In my free time I like to play (and watch) soccer (⚽️), to play chess ♟️ and eventually I like to philosophize about life with a beer (🍺).
 
+[![@pedroagcf's Holopin board](https://holopin.me/pedroagcf)](https://holopin.io/@pedroagcf)
+
 ## Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-augusto-828321133/)](https://www.linkedin.com/in/pedro-augusto-828321133/)
