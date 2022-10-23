@@ -1,6 +1,7 @@
 <p align="center">
-<img src="./images/logo.png"/></p>
 
+[![@pedroagcf's Holopin board](https://holopin.me/pedroagcf)](https://holopin.io/@pedroagcf)
+  
 # Hi there! 👋
 
 ## About me
@@ -25,7 +26,6 @@ I'm from Brazil (BR), passionate for techonology and curious by nature.
 
 In my free time I like to play (and watch) soccer (⚽️), to play chess ♟️ and eventually I like to philosophize about life with a beer (🍺).
 
-[![@pedroagcf's Holopin board](https://holopin.me/pedroagcf)](https://holopin.io/@pedroagcf)
 
 ## Contact me
 
