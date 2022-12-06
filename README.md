@@ -14,7 +14,7 @@ I'm from Brazil (BR), passionate for techonology and curious by nature.
 - Front-End Developer
 - Full-Stack Developer
 - Anls Sr position at Avanade performing FE development focused on ecommerce platforms 
-- Sr FE developer at programmers IT 
+- FE developer at programmers IT 
 
 ## Researches
 
